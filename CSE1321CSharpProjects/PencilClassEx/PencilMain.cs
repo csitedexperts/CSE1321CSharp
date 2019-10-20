@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PencilClassEx
 {
-    class Program
+    class PencilMain
     {
         static void Main(string[] args)
         {

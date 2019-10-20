@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D9655D82-7EBA-4307-8CE8-5EA3BDB25C68}</ProjectGuid>
+    <ProjectGuid>{DBF48776-E2EB-4031-9D2E-A446203C13A8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PencilClassEx</RootNamespace>
-    <AssemblyName>PencilClassEx</AssemblyName>
+    <RootNamespace>DogClass</RootNamespace>
+    <AssemblyName>DogClass</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Pencil.cs" />
-    <Compile Include="PencilMain.cs" />
+    <Compile Include="Dog.cs" />
+    <Compile Include="DogMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

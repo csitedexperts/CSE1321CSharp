@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PencilClassEx", "PencilClassEx\PencilClassEx.csproj", "{D9655D82-7EBA-4307-8CE8-5EA3BDB25C68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogClassEx", "DogClass\DogClassEx.csproj", "{DBF48776-E2EB-4031-9D2E-A446203C13A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D9655D82-7EBA-4307-8CE8-5EA3BDB25C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9655D82-7EBA-4307-8CE8-5EA3BDB25C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9655D82-7EBA-4307-8CE8-5EA3BDB25C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF48776-E2EB-4031-9D2E-A446203C13A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF48776-E2EB-4031-9D2E-A446203C13A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF48776-E2EB-4031-9D2E-A446203C13A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF48776-E2EB-4031-9D2E-A446203C13A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
