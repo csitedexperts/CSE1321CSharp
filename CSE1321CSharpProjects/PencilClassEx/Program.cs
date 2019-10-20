@@ -25,6 +25,9 @@ namespace PencilClassEx
             Console.WriteLine(p3);
             Console.WriteLine(p4);
             Console.WriteLine(p5);
+
+            Console.ReadKey();
+
             /*
             p1.hasEraser = false;
             p1.model = "Dixon";
