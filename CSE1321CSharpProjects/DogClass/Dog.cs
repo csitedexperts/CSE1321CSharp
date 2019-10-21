@@ -12,7 +12,20 @@ namespace DogClass
         public float age;
         public bool isTrained;
         public String color;
+       // public String color {get; set;}
         public float weight;
+
+        //public string color { get => color; set => color = value; }
+
+        public String getName()
+        {
+            return name;
+        }
+        public void setName(String name)
+        {
+            this.name = name;
+
+        }
 
         public Dog()
         {

@@ -10,8 +10,22 @@ namespace PencilClassEx
     {
         public int serialNo;
         public String model;
-        public String type;
+
+        public String type;// { get; set; }
+        //public string Type { get => type; set => type = value; }
+
         public bool hasEraser;
+
+        
+        public String getModel()
+        {
+            return model;
+        }
+        public void setModel(String model)
+        {
+            this.model = model;
+
+        }
 
         public Pencil()
         {
